@@ -1,5 +1,5 @@
 /* Calistung Ceria Modul 2 — service worker: cache-first untuk aset sendiri */
-const CACHE = "calistung-modul2-v1";
+const CACHE = "calistung-modul2-v2";
 const ASSETS = ["./", "./index.html", "./manifest.webmanifest", "./icon.svg"];
 
 self.addEventListener("install", ev => {
